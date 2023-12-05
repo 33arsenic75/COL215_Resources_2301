@@ -1,0 +1,10 @@
+// Format:
+// GATE_TYPE GATE_DELAY
+// Delays in nanoseconds
+// Ignore blank lines, lines with spaces only, and lines starting with "//"
+
+NAND2 3
+AND2 4
+NOR2 3.5
+OR2 4.5
+INV 2
