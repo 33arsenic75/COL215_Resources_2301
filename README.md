@@ -3,19 +3,28 @@
 Welcome to the COL 215 repository! This repository contains various resources from the semester, including assignment submissions, exam papers, and class slides.
 
 ## Table of Contents
-
+- [Books and Other Resources](#Books-and-Other-Resources)
 - [Assignments](#assignments)
 - [Previous Year Papers](#exam-papers)
 - [Lecture Slides](#lecture-slides)
-- 
+
+
+## Books and Other Resources
+
+Contains the reference book for the course with some additional resources to learn VHDL. The recommended resources for each topic is as follows:-
+
+- Number Systems and Boolean Algebra:- Nothing
+- K Maps, CMOS Implementation and Logic Minimization:- Roth Fundamentals of Logic Design
+- Combinational Logic, Encoders, Decoder, Adders, MUX:- Roth Fundamentals of Logic Design
+- Sequential Logic, Latches, Flip-Flop, State Machines:- Digital Design by Mano
+- Memory Registers, DRAM and SRAM:- Digital Design by Mano + Youtube :)
+- FPGA:- Digital Design by Mano
+- Error Correction:- Digital Design by Mano + 3B1B Youtube Video + ChatGPT + Youtube (D Algorithm)
+
 
 ## Assignments
 
-The assignments folder contains submissions from students for different assignments throughout the semester. Each assignment is organized in a separate directory with relevant information.
-
-- [Assignment 1](/assignments/assignment1)
-- [Assignment 2](/assignments/assignment2)
-- ...
+The assignments are in each seperate folder containing submissions from us for different assignments throughout the semester. Each assignment is organized in a separate directory with relevant information.
 
 ## Previous Year Papers
 
@@ -34,5 +43,3 @@ Feel free to contribute to this repository by adding more resources, fixing issu
 3. Commit your changes (`git commit -am 'Add new resources'`).
 4. Push to the branch (`git push origin feature/new-resources`).
 5. Create a new pull request.
-
-
